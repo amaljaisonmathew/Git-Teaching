@@ -61,3 +61,6 @@ The repository intentionally starts simple so that students can focus on version
 
 - **Name:** Amal Jaison Mathew
 - **Student ID:** 25192103
+## Project Description
+
+The Student Grade Calculator is a Python-based application designed to calculate student grades and determine pass or fail status based on average marks. This project demonstrates Git version control, branching, commits, GitHub collaboration, and automated testing using GitHub Actions.
